@@ -1,0 +1,213 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* FlickerTableAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {952, 587}}";
+			sepNavSelRange = "{390, 14}";
+			sepNavVisRange = "{0, 689}";
+		};
+	};
+	1D3623250D0F684500981E51 /* FlickerTableAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {952, 587}}";
+			sepNavSelRange = "{277, 0}";
+			sepNavVisRange = "{0, 734}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* FlickerTable */ = {
+		activeExec = 0;
+		executables = (
+			FA05AAE3137AA34F00C2E7D0 /* FlickerTable */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FA05AAE3137AA34F00C2E7D0 /* FlickerTable */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* FlickerTable */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* FlickerTable */,
+		);
+		codeSenseManager = FA05AAE8137AA36F00C2E7D0 /* Code sense */;
+		executables = (
+			FA05AAE3137AA34F00C2E7D0 /* FlickerTable */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					774,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 333888069;
+			PBXWorkspaceStateSaveDate = 333888069;
+		};
+		perUserProjectItems = {
+			FA978A3B137CE59D0026F9E6 /* PBXTextBookmark */ = FA978A3B137CE59D0026F9E6 /* PBXTextBookmark */;
+			FA978A3C137CE59D0026F9E6 /* PBXTextBookmark */ = FA978A3C137CE59D0026F9E6 /* PBXTextBookmark */;
+			FA9E918013E6BA5E0014694B /* PBXTextBookmark */ = FA9E918013E6BA5E0014694B /* PBXTextBookmark */;
+			FAD4776713B2EB19008EA954 /* PBXTextBookmark */ = FAD4776713B2EB19008EA954 /* PBXTextBookmark */;
+			FAD4776813B2EB19008EA954 /* PBXTextBookmark */ = FAD4776813B2EB19008EA954 /* PBXTextBookmark */;
+			FAD4776913B2EB19008EA954 /* PBXTextBookmark */ = FAD4776913B2EB19008EA954 /* PBXTextBookmark */;
+			FAD4776B13B2EB19008EA954 /* PBXTextBookmark */ = FAD4776B13B2EB19008EA954 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FA05AAE7137AA36F00C2E7D0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {952, 564}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 361}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* FlickerTable_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {952, 564}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 193}";
+		};
+	};
+	FA05AAE3137AA34F00C2E7D0 /* FlickerTable */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FlickerTable;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FA05AAE7137AA36F00C2E7D0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FA05AAE8137AA36F00C2E7D0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FA05AAF2137AA43600C2E7D0 /* FlickerTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {952, 587}}";
+			sepNavSelRange = "{348, 0}";
+			sepNavVisRange = "{0, 423}";
+		};
+	};
+	FA05AAF3137AA43600C2E7D0 /* FlickerTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {952, 1417}}";
+			sepNavSelRange = "{1745, 0}";
+			sepNavVisRange = "{1086, 1589}";
+		};
+	};
+	FA978A3B137CE59D0026F9E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* FlickerTable_Prefix.pch */;
+		name = "FlickerTable_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 193;
+		vrLoc = 0;
+	};
+	FA978A3C137CE59D0026F9E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	FA9E918013E6BA5E0014694B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FlickerTableAppDelegate.m */;
+		name = "FlickerTableAppDelegate.m: 15";
+		rLen = 0;
+		rLoc = 277;
+		rType = 0;
+		vrLen = 734;
+		vrLoc = 0;
+	};
+	FAD4776713B2EB19008EA954 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FA05AAF3137AA43600C2E7D0 /* FlickerTableViewController.m */;
+		name = "FlickerTableViewController.m: 49";
+		rLen = 0;
+		rLoc = 1745;
+		rType = 0;
+		vrLen = 1589;
+		vrLoc = 1086;
+	};
+	FAD4776813B2EB19008EA954 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* FlickerTableAppDelegate.h */;
+		name = "FlickerTableAppDelegate.h: 17";
+		rLen = 14;
+		rLoc = 390;
+		rType = 0;
+		vrLen = 689;
+		vrLoc = 0;
+	};
+	FAD4776913B2EB19008EA954 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FA05AAF2137AA43600C2E7D0 /* FlickerTableViewController.h */;
+		name = "FlickerTableViewController.h: 16";
+		rLen = 0;
+		rLoc = 348;
+		rType = 0;
+		vrLen = 423;
+		vrLoc = 0;
+	};
+	FAD4776B13B2EB19008EA954 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FlickerTableAppDelegate.m */;
+		name = "FlickerTableAppDelegate.m: 14";
+		rLen = 0;
+		rLoc = 276;
+		rType = 0;
+		vrLen = 734;
+		vrLoc = 0;
+	};
+}

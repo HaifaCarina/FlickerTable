@@ -1,0 +1,218 @@
+TFlickerTable
+v7
+r0
+t326804941.377906
+cCheck dependencies
+cProcessInfoPlistFile /Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/FlickerTable.app/Info.plist FlickerTable-Info.plist
+cCompileXIB /Users/macbook/Documents/Tmp/FlickerTable/MainWindow.xib
+cProcessPCH /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlickerTable_Prefix-dbsthkdpnahencbtxxjtnguclafp/FlickerTable_Prefix.pch.gch FlickerTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/Objects-normal/i386/main.o /Users/macbook/Documents/Tmp/FlickerTable/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/Objects-normal/i386/FlickerTableAppDelegate.o /Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/Objects-normal/i386/FlickerTableViewController.o /Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D9EE41F0000000000000110
+t1302258719
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableAppDelegate.h
+c000000004DCA6D4600000000000001E3
+t1305111878
+s483
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableAppDelegate.m
+c000000004DCA6D9100000000000002B8
+t1305111953
+s696
+i"FlickerTableAppDelegate.h"
+
+N/Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableViewController.h
+c000000004DCA6E280000000000000192
+t1305112104
+s402
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableViewController.m
+c000000004DCA6E480000000000000D55
+t1305112136
+s3413
+i"FlickerTableViewController.h"
+
+N/Users/macbook/Documents/Tmp/FlickerTable/FlickerTable_Prefix.pch
+c000000004DCA6BCF00000000000000C1
+t1305111503
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/FlickerTable/MainWindow.xib
+c000000004DCA6BCF0000000000002121
+t1305111503
+s8481
+
+N/Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/FlickerTable.app
+t2
+s0
+
+N/Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/FlickerTable.app.dSYM
+t2
+s0
+
+N/Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/FlickerTable.app/FlickerTable
+t2
+s0
+
+N/Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/FlickerTable.app/Info.plist
+t1305112136
+s611
+
+N/Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/FlickerTable.app/MainWindow.nib
+t1305112137
+s989
+
+N/Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/FlickerTable.app/PkgInfo
+t1305112136
+s8
+
+N/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/Objects-normal/i386/FlickerTable.LinkFileList
+c000000004DCA6E4800000000000001BE
+t1305112136
+s446
+
+N/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/Objects-normal/i386/FlickerTableAppDelegate.o
+t2
+s0
+
+N/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/Objects-normal/i386/FlickerTableViewController.o
+t1305112141
+s47732
+
+N/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/Objects-normal/i386/main.o
+t1305112141
+s6308
+
+N/Users/macbook/Documents/Tmp/FlickerTable/main.m
+c000000004DCA6BCF0000000000000169
+t1305111503
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlickerTable_Prefix-dbsthkdpnahencbtxxjtnguclafp/FlickerTable_Prefix.pch.gch
+t1305112140
+s15453392
+
+NFlickerTable-Info.plist
+c000000004DCA6BCF000000000000038D
+t1305111503
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326804936#326804936#0(0"0(0#1#0"8612226368#0"0#
+
+CCompileC build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/Objects-normal/i386/FlickerTableAppDelegate.o /Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326804941.100974
+e326804941.187692
+r0
+xCompileC
+xbuild/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/Objects-normal/i386/FlickerTableAppDelegate.o
+x/Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableAppDelegate.m: In function '-[FlickerTableAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableAppDelegate.m:22: error: request for member 'view' in something not a structure or union
+lSLF07#2@83"Compile /Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableAppDelegate.m326804941#326804941#0(313"/Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableAppDelegate.m: In function '-[FlickerTableAppDelegate application:didFinishLaunchingWithOptions:]':/Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableAppDelegate.m:22: error: request for member 'view' in something not a structure or union1(4@63"Request for member 'view' in something not a structure or union326804941#162#151#0(6@75"/Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableAppDelegate.m326804753#22#0#22#0#0"0(0#0#75"/Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableAppDelegate.m8614836192#2093"    cd /Users/macbook/Documents/Tmp/FlickerTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/FlickerTable-generated-files.hmap -I/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/FlickerTable-own-target-headers.hmap -I/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/FlickerTable-all-target-headers.hmap -iquote /Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/FlickerTable-project-headers.hmap -F/Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator -I/Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/include -I/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/DerivedSources/i386 -I/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/DerivedSources -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlickerTable_Prefix-dbsthkdpnahencbtxxjtnguclafp/FlickerTable_Prefix.pch -c /Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableAppDelegate.m -o /Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/Objects-normal/i386/FlickerTableAppDelegate.o1#
+
+CCompileC build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/Objects-normal/i386/FlickerTableViewController.o /Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326804941.187815
+e326804941.377813
+r1
+xCompileC
+xbuild/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/Objects-normal/i386/FlickerTableViewController.o
+x/Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableViewController.m326804941#326804941#0(0"0(0#0#78"/Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableViewController.m8618915712#2099"    cd /Users/macbook/Documents/Tmp/FlickerTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/FlickerTable-generated-files.hmap -I/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/FlickerTable-own-target-headers.hmap -I/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/FlickerTable-all-target-headers.hmap -iquote /Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/FlickerTable-project-headers.hmap -F/Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator -I/Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/include -I/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/DerivedSources/i386 -I/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/DerivedSources -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlickerTable_Prefix-dbsthkdpnahencbtxxjtnguclafp/FlickerTable_Prefix.pch -c /Users/macbook/Documents/Tmp/FlickerTable/Classes/FlickerTableViewController.m -o /Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/Objects-normal/i386/FlickerTableViewController.o0#
+
+CCompileC build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/Objects-normal/i386/main.o /Users/macbook/Documents/Tmp/FlickerTable/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326804940.777814
+e326804941.100865
+r1
+xCompileC
+xbuild/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/Objects-normal/i386/main.o
+x/Users/macbook/Documents/Tmp/FlickerTable/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/macbook/Documents/Tmp/FlickerTable/main.m326804940#326804941#0(0"0(0#0#48"/Users/macbook/Documents/Tmp/FlickerTable/main.m8601622816#2047"    cd /Users/macbook/Documents/Tmp/FlickerTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/FlickerTable-generated-files.hmap -I/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/FlickerTable-own-target-headers.hmap -I/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/FlickerTable-all-target-headers.hmap -iquote /Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/FlickerTable-project-headers.hmap -F/Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator -I/Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/include -I/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/DerivedSources/i386 -I/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/DerivedSources -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlickerTable_Prefix-dbsthkdpnahencbtxxjtnguclafp/FlickerTable_Prefix.pch -c /Users/macbook/Documents/Tmp/FlickerTable/main.m -o /Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/macbook/Documents/Tmp/FlickerTable/MainWindow.xib
+s326804936.943730
+e326804937.381485
+r1
+xCompileXIB
+x/Users/macbook/Documents/Tmp/FlickerTable/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib326804936#326804937#0(0"0(0#0#56"/Users/macbook/Documents/Tmp/FlickerTable/MainWindow.xib8615755520#584"    cd /Users/macbook/Documents/Tmp/FlickerTable    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/FlickerTable.app/MainWindow.nib /Users/macbook/Documents/Tmp/FlickerTable/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/FlickerTable.app.dSYM /Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/FlickerTable.app/FlickerTable
+r0
+
+CLd /Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/FlickerTable.app/FlickerTable normal i386
+r0
+
+CProcessInfoPlistFile /Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/FlickerTable.app/Info.plist FlickerTable-Info.plist
+s326804936.939792
+e326804936.943628
+r1
+xProcessInfoPlistFile
+x/Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/FlickerTable.app/Info.plist
+xFlickerTable-Info.plist
+lSLF07#2@31"Process FlickerTable-Info.plist326804936#326804936#0(0"0(0#0#65"/Users/macbook/Documents/Tmp/FlickerTable/FlickerTable-Info.plist8617350048#503"    cd /Users/macbook/Documents/Tmp/FlickerTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FlickerTable-Info.plist -genpkginfo /Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/FlickerTable.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/FlickerTable.app/Info.plist0#
+
+CProcessPCH /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlickerTable_Prefix-dbsthkdpnahencbtxxjtnguclafp/FlickerTable_Prefix.pch.gch FlickerTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s326804937.381623
+e326804940.777631
+r1
+xProcessPCH
+x/var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlickerTable_Prefix-dbsthkdpnahencbtxxjtnguclafp/FlickerTable_Prefix.pch.gch
+xFlickerTable_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile FlickerTable_Prefix.pch326804937#326804940#0(0"0(0#0#65"/Users/macbook/Documents/Tmp/FlickerTable/FlickerTable_Prefix.pch8615094432#1931"    cd /Users/macbook/Documents/Tmp/FlickerTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/FlickerTable-generated-files.hmap -I/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/FlickerTable-own-target-headers.hmap -I/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/FlickerTable-all-target-headers.hmap -iquote /Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/FlickerTable-project-headers.hmap -F/Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator -I/Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/include -I/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/DerivedSources/i386 -I/Users/macbook/Documents/Tmp/FlickerTable/build/FlickerTable.build/Debug-iphonesimulator/FlickerTable.build/DerivedSources -c /Users/macbook/Documents/Tmp/FlickerTable/FlickerTable_Prefix.pch -o /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlickerTable_Prefix-dbsthkdpnahencbtxxjtnguclafp/FlickerTable_Prefix.pch.gch0#
+
+CTouch /Users/macbook/Documents/Tmp/FlickerTable/build/Debug-iphonesimulator/FlickerTable.app
+r0
+
